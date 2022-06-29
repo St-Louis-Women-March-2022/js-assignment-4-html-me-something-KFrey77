@@ -31,19 +31,19 @@ body {
 
 #mainHeading {
     font-size: 3em;
-    color: #572424;
+    color: red;
     background: #0a0707;
     text-shadow: 1px 3px 0 #969696, 1px 13px 5px #aba8a8;
     }
 
 .funParagraph {
-    color: greenyellow;
+    color: green;
     font-size: 2em;
 }
 
-p7 {
+/* p7 {
     margin-bottom: 20%;
-}
+} */
 
 p6, p4 {
     align-items: right;
